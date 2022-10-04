@@ -1,6 +1,8 @@
 # 👋 Hi! I'm Rohit
 A Mechanical Engineering student at [@Imperial](https://www.imperial.ac.uk) with an interest in embedded systems, physics modelling and ai.
 
+I'm currently working on [CheatSheet](https://github.com/RohitNag11/CheatSheet), a global keyboard shortcuts helper app for Windows.
+
 
 ### Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitnag_art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-nag) 
