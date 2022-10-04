@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Rohit
-A Mechanical Engineering student at @[Imperial College](https://www.imperial.ac.uk) with an interest in embedded systems, physics modelling and ai / ml.
+A Mechanical Engineering student at [@Imperial](https://www.imperial.ac.uk) with an interest in embedded systems, physics modelling and ai / ml.
 
 
 ## Socials
