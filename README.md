@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Rohit
+# Rohit Nag
 A Mechanical Engineering student [@Imperial](https://www.imperial.ac.uk) with an interest in embedded systems, physics modelling and ai.
 
 I'm currently working on [CheatSheet](https://github.com/RohitNag11/CheatSheet), a global keyboard shortcuts helper app for Windows.
